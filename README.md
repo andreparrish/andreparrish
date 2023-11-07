@@ -6,11 +6,11 @@
 
 ## Current Certifications
 
-- CompTIA Security+
-- Google Cybersecurity Certificate
-- Google Cloud Professional Architect
-- Google Cloud Associate Cloud Engineer
-- AWS Solutions Architect Associate
+- [CompTIA Security+](https://github.com/andreparrish/andreparrish/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
+- [Google Cybersecurity Certificate](https://github.com/andreparrish/andreparrish/blob/main/Coursera-Google%20Cybersecurity.pdf)
+- [Google Cloud Professional Architect](https://github.com/andreparrish/andreparrish/blob/main/Andre_Parrish-GCP-ProfessionalCloudArchitect.pdf)
+- [Google Cloud Associate Cloud Engineer](https://github.com/andreparrish/andreparrish/blob/main/Andre_Parrish-GCP-AssociateCloudEngineer.pdf)
+- [AWS Solutions Architect Associate](https://github.com/andreparrish/andreparrish/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 
 ## 🔧 Technologies & Tools
 
