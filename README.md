@@ -16,12 +16,11 @@
 
 - 💻 Cloud Engineering: AWS, GCP
 - 🔐 Cybersecurity: IDS/IPS, Nessus, Wireshark, Security Best Practices, NIST CSF
-- 🧰 DevOps: Terraform, Jenkins, Puppet, Packer
 - 🐍 Programming/Scripting: Python, Bash, Go
-- 👷‍♂️ Infrastructure as Code: Terraform, Puppet, Ansible
+- 👷‍♂️ Infrastructure as Code: Terraform, Puppet, Ansible, Puppet, Packer
 - 🖥️ Operating Systems: Linux, Windows
 - 🌐 Networking: TCP/IP, Routing, Load-Balancing, VPN, Firewall Management
-- 📚 Continuous Learner
+- 📚 Continuous Learner, Mentor
 
 ## 🚀 What I'm Working On
 
