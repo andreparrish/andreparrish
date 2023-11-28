@@ -24,7 +24,8 @@
 
 ## 🚀 What I'm Working On
 
-I'm currently enhancing my skills in cybersecurity and participating in capture the flag (CTF) challenges. I'm also exploring open-source projects related to cybersecurity.
+I'm currently working through practical cybersecurity exercises, focusing on the TryHackMe Security Engineer learning path. I'm also exploring open-source projects related to cybersecurity.
+
 
 Let's make the digital world a better place, one secure connection at a time! 🛡️
 
