@@ -24,7 +24,9 @@
 
 ## 🚀 What I'm Working On
 
-I'm currently working through practical cybersecurity exercises, focusing on the TryHackMe Security Engineer learning path. I'm also exploring open-source projects related to cybersecurity.
+I am currently dedicating regularly scheduled blocks of time to activity related to bug bounty programs and vulnerability disclosure programs(VDPs).  Choosing and configuring tools to use against real environments with real rules of engagement is valuable experience, with or without payment.
+
+I am also working through practical cybersecurity exercises on learning platforms, including the TryHackMe Security Engineer learning path and tools that might be useful in bug bounty engagements.
 
 
 Let's make the digital world a better place, one secure connection at a time! 🛡️
