@@ -8,17 +8,15 @@
 
 - [CompTIA Security+](https://github.com/andreparrish/andreparrish/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
 - [Google Cybersecurity Certificate](https://github.com/andreparrish/andreparrish/blob/main/Coursera-Google%20Cybersecurity.pdf)
-- [Google Cloud Associate Cloud Engineer](https://github.com/andreparrish/andreparrish/blob/main/Andre_Parrish-GCP-AssociateCloudEngineer.pdf)
-- [AWS Solutions Architect Associate](https://github.com/andreparrish/andreparrish/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 - [TryHackMe Security Engineer](https://github.com/andreparrish/andreparrish/blob/main/Andre_Parrish-THM_SecEng.png)
 
 ## 🔧 Technologies & Tools
 
 - 💻 Public Cloud: AWS, GCP
 - 🔐 Cybersecurity: IDS/IPS, Nessus, Wireshark, Burp Suite, OWASP Zap, NIST CSF
+- 🖥️ Operating Systems: Linux, Windows, others
 - 🐍 Programming/Scripting: Python, Bash, Golang
 - 👷‍♂️ Infrastructure as Code: Terraform, Puppet, Ansible, Puppet, Packer
-- 🖥️ Operating Systems: Linux, Windows
 - 🌐 Networking: TCP/IP, Routing, Load-Balancing, VPN, Firewall Management
 - 📚 Experience As: Individual Contributor, Team Member, Continuous Learner, Mentor
 
