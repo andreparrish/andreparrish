@@ -2,7 +2,7 @@
 
 💻 [GitHub](https://github.com/andreparrish/andreparrish) | 💼 [LinkedIn](https://www.linkedin.com/in/andre-parrish/)
 
-📜 [Resume/CV](https://github.com/andreparrish/andreparrish/blob/main/resume%20-Andre_Parrish-CyberSecurityEng.pdf)
+📜 [Resume/CV](https://github.com/andreparrish/andreparrish/blob/main/Andre%20T%20Parrish%20-%20Resume%20-%20Cloud%20Systems%20Engineer.pdf)
 
 ## Current Certifications
 
